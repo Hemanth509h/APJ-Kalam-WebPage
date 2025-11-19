@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "routes": [
+    { "src": "/(.*)", "dest": "A.P.J-Abdul-kalam-page/apj-Abdul-kalam.html" }
+  ]
+}
